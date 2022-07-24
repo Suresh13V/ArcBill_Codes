@@ -9,3 +9,7 @@ ArcBill Project Details
 4) Home page should display
 
 5) Try to access the application
+
+6) Uploade valid bills
+
+7) Send for Approvals
