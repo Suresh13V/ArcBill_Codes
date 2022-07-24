@@ -7,3 +7,5 @@ ArcBill Project Details
 3) Click login button
 
 4) Home page should display
+
+5) Try to access the application
