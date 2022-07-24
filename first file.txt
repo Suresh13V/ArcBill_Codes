@@ -1,0 +1,9 @@
+ArcBill Project Details
+
+1) Launch the url
+
+2) Enter credetails 
+
+3) Click login button
+
+4) Home page should display
